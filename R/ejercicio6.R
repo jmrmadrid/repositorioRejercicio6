@@ -11,9 +11,9 @@ echo <- function(x) {
 }
 
 hello <- function(x) {
-  return(paste("hello", x))
+  return(paste("Hello ", x))
 }
 
-bye <- function(x) {
-  return(paste("bye", x))
+add <- function(x, y) {
+  return(x + y)
 }

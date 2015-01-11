@@ -1,8 +1,8 @@
 Package: repositorioRejercicio6
-Title: What the package does (one line)
+Title: Ejercicio 6 de la práctica de preparación de datos con R
 Version: 0.1
-Authors@R: "First Last <first.last@example.com> [aut, cre]"
-Description: What the package does (one paragraph)
+Authors@R: "José Manuel Rodríguez Madrid <first.last@example.com> [aut, cre]"
+Description: Crea un paquete de R (con dos o tres funciones tontas, que hagan cualquier cosa). Súbelo a GitHub. Se valorará que el paquete pueda ser instalado usando devtools.
 Depends: R (>= 3.1.2)
 License: What license is it under?
 LazyData: true
